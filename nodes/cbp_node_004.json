@@ -1,0 +1,8 @@
+{
+  "concept": "supplier approval",
+  "intent": "reduce procurement cost",
+  "boundary": "critical suppliers require financial stability review",
+  "rationale": "The supplier price was attractive, but financial stability indicators were weak. Approval was postponed pending additional review.",
+  "decision": "defer",
+  "timestamp": "2026-03-13T11:40:21.000000Z"
+}

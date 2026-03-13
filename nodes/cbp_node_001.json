@@ -1,0 +1,8 @@
+{
+  "concept": "supplier approval",
+  "intent": "reduce procurement risk",
+  "boundary": "supplier must pass compliance check",
+  "rationale": "The supplier passed compliance checks and offered competitive pricing. Risk was considered manageable with monitoring.",
+  "decision": "approve",
+  "timestamp": "2026-03-10T08:03:05.973206Z"
+}

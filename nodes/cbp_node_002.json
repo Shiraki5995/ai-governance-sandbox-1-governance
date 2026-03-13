@@ -1,0 +1,8 @@
+{
+  "concept": "supplier approval",
+  "intent": "reduce procurement risk",
+  "boundary": "supplier must pass compliance check",
+  "rationale": "The supplier failed one required compliance document review, so approval could not proceed.",
+  "decision": "reject",
+  "timestamp": "2026-03-11T09:15:12.000000Z"
+}

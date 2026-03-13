@@ -1,0 +1,8 @@
+{
+  "concept": "supplier approval",
+  "intent": "secure supply continuity",
+  "boundary": "high country risk requires enhanced review",
+  "rationale": "The supplier offered strong delivery capability, but country risk was high. Enhanced monitoring and a secondary supplier backup were required.",
+  "decision": "conditional approve",
+  "timestamp": "2026-03-12T10:25:33.000000Z"
+}
