@@ -1,0 +1,8 @@
+Question:
+Should we approve a new supplier?
+
+Supplier Data:
+Risk score: 72
+Country risk: medium
+Compliance: passed
+Price: competitive

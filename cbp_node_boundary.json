@@ -1,0 +1,8 @@
+{
+  "concept": "supplier approval",
+  "intent": "reduce procurement risk",
+  "boundary": "supplier must pass compliance check",
+  "rationale": "The supplier has a moderate risk score (72) and is located in a medium-risk country, but they have passed compliance checks and offer competitive pricing. These factors suggest that the supplier is acceptable, though ongoing monitoring is recommended.",
+  "decision": "approve",
+  "timestamp": "2026-03-10T08:16:47.717608Z"
+}
